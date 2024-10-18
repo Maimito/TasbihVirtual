@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasbeeh Counter</string>
+    <string name="touch_hint">Press anywhere to start</string>
+    <string name="reset_hint">Touch this button to reset count 👉</string>
+</resources>

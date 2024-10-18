@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasbih</string>
+    <string name="touch_hint">Ketuk di mana saja untuk mulai</string>
+    <string name="reset_hint">Ketuk tombol ini untuk mereset 👉</string>
+</resources>
